@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ibuxiepi.github.io/EGB/sitemap_index.txt
+Sitemap: https://ibuxiepi.github.io/FTy/sitemap_index.txt
+Sitemap: https://ibuxiepi.github.io/Htb/sitemap_index.txt
+Sitemap: https://ibuxiepi.github.io/mMg/sitemap_index.txt
